@@ -1,5 +1,3 @@
-#Original code which this is based on provided by Professor Andrew Ross
-#of Eastern Michigan University
 #Set working directory 
 setwd("C:/Users/Micah/Documents/EMU-2017-2018/School/STAT360/Project")
 afadata.orig <- read.table("Micah-Huff-Project-Data.csv",sep=",",header=T)
